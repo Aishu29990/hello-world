@@ -1,4 +1,4 @@
-name: machine_learning
+name: mlredux
 channels:
     - https://conda.anaconda.org/menpo
     - conda-forge
@@ -12,3 +12,10 @@ dependencies:
     - seaborn
     - pandas
     - tqdm
+    - xgboost
+    - nltk
+    - wordcloud
+    - requests
+    - imbalanced-learn
+    - pillow
+    - boto3
