@@ -9,13 +9,10 @@ dependencies:
     - jupyter
     - scikit-learn
     - scipy
-    - seaborn
     - pandas
     - tqdm
-    - xgboost
     - nltk
     - wordcloud
     - requests
-    - imbalanced-learn
     - pillow
-    - boto3
+    - findspark
